@@ -1,6 +1,6 @@
 # Hiera module for Puppet
 
-[![Build Status](https://travis-ci.org/voxpupuli/puppet-hiera.png?branch=master)](https://travis-ci.org/voxpupuli/puppet-hiera)
+![Build Status](https://github.com/voxpupuli/puppet-hiera/actions/workflows/ci.yml/badge.svg?branch=master)
 [![Code Coverage](https://coveralls.io/repos/github/voxpupuli/puppet-hiera/badge.svg?branch=master)](https://coveralls.io/github/voxpupuli/puppet-hiera)
 [![Puppet Forge](https://img.shields.io/puppetforge/v/puppet/hiera.svg)](https://forge.puppetlabs.com/puppet/hiera)
 [![Puppet Forge - downloads](https://img.shields.io/puppetforge/dt/puppet/hiera.svg)](https://forge.puppetlabs.com/puppet/hiera)
